@@ -1,0 +1,4 @@
+# tkinter登录界面
+该程序模拟了基本的登录和注册界面，并且添加了窗口震动功能，窗口震动用于反馈用户，告知用户输入的值不合法。
+该程序主要依赖tkinter库和tkinter的ttk和messsagebox库，如果你的Python里面没有tkinter库的话，你需要在cmd或PowerShell内输入pip install tkinter。
+该程序需要两个外部文件，UserLogin.txt和UserPassword.txt。这两个文件用于储存用户的账号和密码信息。如果没有这两个文件的话，程序会报错。
